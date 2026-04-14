@@ -1,0 +1,10 @@
+2026-04-12 15:39:40,688 [INFO] ============================================================
+2026-04-12 15:39:40,689 [INFO] PHASE 3 — DATA INGESTION STARTED
+2026-04-12 15:39:40,690 [INFO] ============================================================
+2026-04-12 15:39:40,692 [INFO] Found 1 file(s) to ingest: ['casino_dataset.csv']
+2026-04-12 15:39:40,693 [INFO] Starting ingestion for: casino_dataset.csv
+2026-04-12 15:39:40,694 [INFO] Destination: C:\Users\caro_\OneDrive\Desktop\UP\1OCTAVO\datosMasivos\casino_bigdata\data\raw\casino_games\20260412T213940Z\casino_dataset.csv
+2026-04-12 15:39:41,167 [INFO] File copied to raw layer.
+2026-04-12 15:39:42,417 [INFO] Reading CSV into DataFrame...
+2026-04-12 15:39:53,106 [INFO] Loaded 1,200,000 rows × 20 columns.
+2026-04-12 15:40:07,578 [INFO] Column match: 18.2%
